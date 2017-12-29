@@ -1,10 +1,10 @@
 var config = {
-    apiKey: "AIzaSyCss2YpS6Orxyb76nJhWUam0NUitu2dN64",
-    authDomain: "jecrc-hackathon.firebaseapp.com",
-    databaseURL: "https://jecrc-hackathon.firebaseio.com",
-    projectId: "jecrc-hackathon",
+    apiKey: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    authDomain: "xxxxxxxxxxxxxxxxxx",
+    databaseURL: "xxxxxxx",
+    projectId: "xxxxxxxxxxx",
     storageBucket: "",
-    messagingSenderId: "1043386055663"
+    messagingSenderId: "xxxxxxxxxx"
 };
 firebase.initializeApp(config);
 
