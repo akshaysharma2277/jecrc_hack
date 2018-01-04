@@ -1,2 +1,3 @@
 # jecrc_hack
-complain system
+Simple complain recording portal with login page
+
